@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Do an tot nghiep\\Warcraft2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|d:\\do an tot nghiep\\warcraft2d\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\minienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\explosionenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explosionenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\healenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\energyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\energyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|D:\\Do an tot nghiep\\Warcraft2D\\assets\\scripts\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BE8196-300F-F517-3DBA-63DAF38B046D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:07:54.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameUi.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\GameUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameUi.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\GameUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameUi.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:29:07.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:38:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:14:10.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA5wEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:21:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniEnemy.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\MiniEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniEnemy.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\MiniEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:42:26.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBullet.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\EnemyBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:33:04.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T01:30:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BossEnemy.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\BossEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossEnemy.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\BossEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossEnemy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:12:50.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:00:20.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Explosion.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Explosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Explosion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:39:23.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealEnemy.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\HealEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealEnemy.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\HealEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealEnemy.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:01:10.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerBullet.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\PlayerBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBullet.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\PlayerBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerBullet.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:57:19.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExplosionEnemy.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\ExplosionEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExplosionEnemy.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\ExplosionEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExplosionEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:20:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnergyEnemy.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\EnergyEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnergyEnemy.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\EnergyEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnergyEnemy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:34:59.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BasicEnemy.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BasicEnemy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T02:07:09.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:34:35.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CursorManager.cs",
+              "DocumentMoniker": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\CursorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CursorManager.cs",
+              "ToolTip": "D:\\Do an tot nghiep\\Warcraft2D\\Assets\\Scripts\\CursorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CursorManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:10:49.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
